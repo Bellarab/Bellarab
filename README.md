@@ -1,3 +1,4 @@
+<img src="image.png" alt="GitHub Banner" width="100%" />
 <h1 align="left">Hello World!, I'm Nassim, a Moroccan Web Developer 👋🏼:</h1>
 
 ###
