@@ -23,6 +23,7 @@
   📧 Email: bellarabnassim@gmail.com<br>
   📞 Phone: 06 73 49 56 81 <br>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/bellarab-nassim-6b9374277/" target="_blank">Nassim Bellarab</a>
+
 </p>
 
 </p>
